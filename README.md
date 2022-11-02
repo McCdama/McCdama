@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mohed
+- 👀 I’m interested in Data Analytic, BigQuery, Machine Learning and Natural Language Processing 
+- 🌱 I’m currently learning Cyber Security and other stuff :=)
+- 💞️ I’m looking to collaborate on an open source PHP Framwork
+- 📫 reach me on Twitter @McCdama
